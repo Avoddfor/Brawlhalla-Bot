@@ -4,7 +4,7 @@ Brawlhalla Private External Bot | Script Cheat | Evade | Farm XP | Save Combo | 
 ![image](https://github.com/Avoddfor/Brawlhalla-Bot/assets/160798053/eb44c097-2d48-4bb1-a51e-b436c9dcdc4a)
 
 [![Discord](https://img.shields.io/discord/972965077496000552)](https://discord.gg/ZNHTJPcSG9)
-![Version](https://img.shields.io/badge/version-4.9-blue.svg)
+![Version](https://img.shields.io/badge/version-5.0-blue.svg)
 
 ## Features
 
